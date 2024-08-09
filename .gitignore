@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+
+# Generated files
+.vitepress/dist
+.vitepress/cache
+output
+dist
+
+# Mac Configuration
+.DS_Store
+.direnv
