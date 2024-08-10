@@ -6,7 +6,7 @@ export default defineConfig({
   lang: "th-TH",
   title: "T.T. Software Solution",
   description: "T.T. Software Solution - Portal",
-  head: [["link", { rel: "icon", href: "/images/favicon.ico" }]],
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
 
   vite: {
     ssr: {
@@ -18,7 +18,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: "/images/logo.svg",
+    logo: "/logo.svg",
     nav: [
       { text: "Home", link: "/" },
       { text: "บริการของเรา", link: "/services" },

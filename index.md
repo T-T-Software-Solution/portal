@@ -23,8 +23,8 @@ hero:
       text: LinkedIn
       link: https://www.linkedin.com/company/t-t-software-solution/
   image: {
-      light: '/images/logo.svg',
-      dark: '/images/logo.svg',
+      light: '/logo.svg',
+      dark: '/logo.svg',
       alt: TTSS Web Portal
   }
 
