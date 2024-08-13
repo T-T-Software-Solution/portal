@@ -27,6 +27,11 @@ https://tt-ss.net
 npm add -D vitepress
 ```
 
+### ติดตั้ง Dependencies สักหน่อย
+```
+npm install
+```
+
 ### พร้อมรัน VitePress ล้าวววว
 ```bash
 npm run docs:dev

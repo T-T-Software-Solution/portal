@@ -8,6 +8,27 @@ export default defineConfig({
   description: "T.T. Software Solution - Portal",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
 
+  locales: {
+    root: {
+      label: 'ภาษาไทย',
+      lang: 'th'
+    },
+    en: {
+      label: 'English',
+      lang: 'en',
+      themeConfig: {
+        nav: [
+          { text: "Home", link: "/en" },
+          { text: "Our Services", link: "/en/services" },
+          { text: "Contact Us", link: "/en/contact" },
+          { text: "Our History", link: "/en/histories" },
+          { text: "Join Us", link: "/en/jobs" },
+          { text: "Learning Resources", link: "/en/blogs" }
+        ],
+      }
+    }
+  },
+
   vite: {
     ssr: {
       noExternal: [
