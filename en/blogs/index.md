@@ -2,14 +2,6 @@
 
 At T.T. Software Solution, we believe that continuous learning and self-development are key to achieving success for both our employees and the organization. To support the growth and success of all our employees, we have provided a comprehensive and diverse range of learning resources that are easily accessible and can help everyone develop their skills to the fullest.
 
-## **Expert Content**
-- [Web Development Guideline](web-guideline/)
-- [Source Code Control](sourcecodecontrol/)
-- [ASP.Net Core](aspnet-core/)
-- [Cloud Computing](cloud-computing/)
-- [Azure](azure/)
-- [IT Career Paths](career/)
-
 ## **Digital Library**
 We have prepared a digital library that includes books, e-books, articles, and research papers related to technology and software development. Employees can access these resources anytime to study and update their knowledge.
 
