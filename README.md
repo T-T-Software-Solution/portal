@@ -22,19 +22,21 @@ https://tt-ss.net
 - Text Editor with [Markdown](https://en.wikipedia.org/wiki/Markdown) syntax support.
    - [VSCode](https://code.visualstudio.com/) is recommended, along with the [official Vue extension](https://marketplace.visualstudio.com/items?itemName=Vue.volar).
 
-### ติดตั้ง VitePress กันเถอะ
-```bash
-npm add -D vitepress
-```
 
 ### ติดตั้ง Dependencies สักหน่อย
-```
+```bash
 npm install
+
+# or use bun
+bun install
 ```
 
 ### พร้อมรัน VitePress ล้าวววว
 ```bash
 npm run docs:dev
+
+# or use bun
+bun run docs:dev
 ```
 
 ## VS Code Tasks
