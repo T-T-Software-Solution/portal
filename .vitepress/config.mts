@@ -18,11 +18,7 @@ export default defineConfig({
       lang: 'en',
       themeConfig: {
         nav: [
-          { text: "Home", link: "/en" },
-          { text: "Our Services", link: "/en/services" },
-          { text: "Contact Us", link: "/en/contact" },
-          { text: "Our History", link: "/en/histories" },
-          { text: "Join Us", link: "/en/jobs" },
+          { text: "Home", link: "https://agreeable-meadow-038a31900.5.azurestaticapps.net/" },
           { text: "Learning Resources", link: "/en/blogs" }
         ],
       }
@@ -41,11 +37,7 @@ export default defineConfig({
   themeConfig: {
     logo: "/logo.svg",
     nav: [
-      { text: "Home", link: "/" },
-      { text: "บริการของเรา", link: "/services" },
-      { text: "ติดต่อเรา", link: "/contact" },
-      { text: "ประวัติความเป็นมา", link: "/histories" },
-      { text: "สมัครงานร่วมกับเรา", link: "/jobs" },
+      { text: "Home", link: "https://agreeable-meadow-038a31900.5.azurestaticapps.net/" },
       { text: "แหล่งเรียนรู้", link: "/blogs" }
     ],
 

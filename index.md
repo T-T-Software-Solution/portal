@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: HOME
-      link: /
+      link: https://agreeable-meadow-038a31900.5.azurestaticapps.net/
     - theme: Home
       text: Facebook
       link: https://www.facebook.com/ttsoftwaresolution/
@@ -29,24 +29,27 @@ hero:
   }
 
 features:
-  - title: บริการของเรา
-    details:  บริษัท T.T. Software Solution ใส่ใจในรายละเอียดและมุ่งมั่นที่จะสร้างความพึงพอใจให้กับลูกค้า ด้วยการให้บริการที่มีคุณภาพและตรงต่อเวลา เราเชื่อว่าการใช้เทคโนโลยีที่เหมาะสมจะช่วยให้ธุรกิจของคุณเติบโตและแข่งขันได้ในตลาดที่เปลี่ยนแปลงอย่างรวดเร็ว
-    link: /services
+  - title: Web Development Guideline
+    details:  แนะนำภาพรวมในสายงานของ Web Development โดยจะแนะนำภาพรวมกว้างๆพร้อมตัวอย่าง ให้ผู้อ่านได้ศึกษาแบบเป็นลำดับขั้น
+    link: /blogs/web-guideline
 
-  - title: ติดต่อเรา
-    details:  ถ้าคุณกำลังมองหาบริษัทพัฒนาซอฟต์แวร์ที่เชื่อถือได้และมีความเชี่ยวชาญใช่ไหม บริษัทยินดีที่จะแนะนำตัวเองให้เป็นพันธมิตรทางธุรกิจของคุณในด้านการพัฒนาระบบซอฟต์แวร์ที่ทันสมัยและมีประสิทธิภาพสูงสุด
-    link: /contact
+  - title: Source Code Control
+    details:  แนะนำวิธีการจัดการและควบคุมซอร์สโค้ดผ่านเครื่องมือเช่น Git, GitHub รวมถึงหลักการของการจัดการเวอร์ชัน การทำงานร่วมกันผ่านระบบควบคุมซอร์สโค้ด และการทำ pull, push, merge
+    link: /blogs/sourcecodecontrol
 
-  - title: ประวัติความเป็นมา
-    details:  บริษัทก่อตั้งขึ้นโดยมีเป้าหมายในการนำเสนอโซลูชั่นด้านซอฟต์แวร์ที่มีคุณภาพสูง เพื่อตอบสนองความต้องการของธุรกิจในหลากหลายอุตสาหกรรม
-    link: /histories
+  - title: ASP.Net Core
+    details:  แนะนำการพัฒนาเว็บแอปพลิเคชันด้วย ASP.Net Core ตั้งแต่การติดตั้ง .NET SDK การสร้างโปรเจกต์ใหม่ การใช้งาน Middleware, MVC Architecture และการจัดการการทำงานของ API
+    link: /blogs/aspnet-core
 
-  - title: สมัครงานร่วมกับเรา
-    details:  เราเชื่อว่าบุคลากรคือทรัพยากรที่มีค่าที่สุด และเรามุ่งมั่นที่จะสร้างสภาพแวดล้อมการทำงานที่ส่งเสริมการเรียนรู้และการพัฒนาทั้งในด้านวิชาชีพและส่วนบุคคล
-    link: /jobs
+  - title: Cloud Computing
+    details:  แนะนำแนวคิดของการใช้ Cloud Computing รวมถึงโมเดลต่างๆ เช่น IaaS (Infrastructure as a Service), PaaS (Platform as a Service), และ SaaS (Software as a Service) การทำงานในระบบคลาวด์ และประโยชน์ในการใช้งานในงานพัฒนาแอปพลิเคชัน
+    link: /blogs/cloud-computing
 
-  - title: แหล่งเรียนรู้
-    details:  เพื่อสนับสนุนการเติบโตและความสำเร็จของพนักงานทุกคน เราได้จัดหาแหล่งเรียนรู้เพื่อให้ทุกคนสามารถเข้าถึงได้ง่ายและพัฒนาทักษะได้อย่างเต็มที่
-    link: /blogs
+  - title: Azure
+    details:  อธิบายบริการของ Microsoft Azure ที่ช่วยในการพัฒนาและดีพลอยแอปพลิเคชัน เช่น Azure App Service, Azure Functions, และการจัดการกับ Azure DevOps สำหรับ CI/CD pipelines
+    link: /blogs/azure
+
+  - title: ตำแหน่งสายงาน IT
+    details:  อธิบายประเภทของตำแหน่งงานในสายงาน IT เช่น Software Developer, Frontend/Backend Developer, DevOps Engineer, System Administrator, และตำแหน่งอื่นๆ พร้อมคำอธิบายของหน้าที่ความรับผิดชอบในแต่ละตำแหน่ง
+    link: /blogs/career
 ---
-
