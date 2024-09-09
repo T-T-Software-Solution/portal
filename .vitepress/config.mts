@@ -19,7 +19,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: "Home", link: "https://agreeable-meadow-038a31900.5.azurestaticapps.net/" },
-          { text: "Learning Resources", link: "/en/blogs" }
+          { text: "Learning Resources", link: "/en/" }
         ],
       }
     }
@@ -38,7 +38,7 @@ export default defineConfig({
     logo: "/logo.svg",
     nav: [
       { text: "Home", link: "https://agreeable-meadow-038a31900.5.azurestaticapps.net/" },
-      { text: "แหล่งเรียนรู้", link: "/blogs" }
+      { text: "แหล่งเรียนรู้", link: "/" }
     ],
 
     sidebar: {
