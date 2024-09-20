@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: HOME
-      link: https://agreeable-meadow-038a31900.5.azurestaticapps.net/
+      link: https://www.tt-ss.net/
     - theme: Home
       text: Facebook
       link: https://www.facebook.com/ttsoftwaresolution/

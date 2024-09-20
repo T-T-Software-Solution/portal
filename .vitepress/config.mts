@@ -18,7 +18,7 @@ export default defineConfig({
       lang: 'en',
       themeConfig: {
         nav: [
-          { text: "Home", link: "https://agreeable-meadow-038a31900.5.azurestaticapps.net/" },
+          { text: "Home", link: "https://www.tt-ss.net" },
           { text: "Learning Resources", link: "/en/" }
         ],
       }
@@ -37,7 +37,7 @@ export default defineConfig({
   themeConfig: {
     logo: "/logo.svg",
     nav: [
-      { text: "Home", link: "https://agreeable-meadow-038a31900.5.azurestaticapps.net/" },
+      { text: "Home", link: "https://www.tt-ss.net" },
       { text: "แหล่งเรียนรู้", link: "/" }
     ],
 
