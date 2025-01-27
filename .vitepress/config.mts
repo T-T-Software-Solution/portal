@@ -48,6 +48,11 @@ export default defineConfig({
         items: sidebarBlogs(),
       },
 
+      "/blogs/typescript": {
+        base: "/blogs/typescript/",
+        items: sidebarTypeScript(),
+      },
+
       "/blogs/aspnet-core": {
         base: "/blogs/aspnet-core/",
         items: sidebarASPNetCore(),
@@ -256,6 +261,26 @@ function sidebarCloudComputing(): DefaultTheme.SidebarItem[] {
           collapsed: true,
           base: "/blogs/cloud-computing/fundamental/",
           items: [{ text: "Fundamental", link: "fundamental" }],
+        },
+      ],
+    },
+  ];
+}
+function sidebarTypeScript(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: "TypeScript",
+      items: [
+        {
+          text: "Best Practice",
+          collapsed: true,
+          base: "/blogs/typescript/best-practice/",
+          items: [
+            { text: "Style Guide", link: "style-guide" },
+            { text: "Design Patterns", link: "design-patterns" },
+            { text: "Production Grade Design", link: "production-grade-design" },
+            { text: "Azure Functions", link: "azure-functions" },
+          ],
         },
       ],
     },

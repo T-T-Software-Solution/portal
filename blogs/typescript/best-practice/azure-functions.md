@@ -1,0 +1,1 @@
+# TypeScript Patterns for Azure Functions
