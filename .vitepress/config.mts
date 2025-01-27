@@ -279,6 +279,7 @@ function sidebarTypeScript(): DefaultTheme.SidebarItem[] {
             { text: "Style Guide", link: "style-guide" },
             { text: "Design Patterns", link: "design-patterns" },
             { text: "Production Grade Design", link: "production-grade-design" },
+            { text: "Azure Functions", link: "azure-functions" },
           ],
         },
       ],

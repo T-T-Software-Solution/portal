@@ -1,6 +1,8 @@
 # TypeScript Style Guide
 
+https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/javascript-and-typescript/
 
+https://github.com/airbnb/javascript
 
 ## References
 
