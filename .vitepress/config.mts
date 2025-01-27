@@ -48,6 +48,11 @@ export default defineConfig({
         items: sidebarBlogs(),
       },
 
+      "/blogs/typescript": {
+        base: "/blogs/typescript/",
+        items: sidebarTypeScript(),
+      },
+
       "/blogs/aspnet-core": {
         base: "/blogs/aspnet-core/",
         items: sidebarASPNetCore(),
@@ -255,6 +260,21 @@ function sidebarCloudComputing(): DefaultTheme.SidebarItem[] {
           text: "Fundamentals",
           collapsed: true,
           base: "/blogs/cloud-computing/fundamental/",
+          items: [{ text: "Fundamental", link: "fundamental" }],
+        },
+      ],
+    },
+  ];
+}
+function sidebarTypeScript(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: "TypeScript",
+      items: [
+        {
+          text: "Fundamentals",
+          collapsed: true,
+          base: "/blogs/typescript/fundamental/",
           items: [{ text: "Fundamental", link: "fundamental" }],
         },
       ],

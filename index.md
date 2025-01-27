@@ -33,6 +33,10 @@ features:
     details:  แนะนำภาพรวมในสายงานของ Web Development โดยจะแนะนำภาพรวมกว้างๆพร้อมตัวอย่าง ให้ผู้อ่านได้ศึกษาแบบเป็นลำดับขั้น
     link: /blogs/web-guideline
 
+  - title: TypeScript
+    details:  ว่าด้วยเรื่องของ TypeScript เพิ่ม Type ให้กับ JavaScript และ Design Pattern ที่เกี่ยวข้อง รวมถึงการใช้งานในโปรเจกต์จริง
+    link: /blogs/typescript
+
   - title: Source Code Control
     details:  แนะนำวิธีการจัดการและควบคุมซอร์สโค้ดผ่านเครื่องมือเช่น Git, GitHub รวมถึงหลักการของการจัดการเวอร์ชัน การทำงานร่วมกันผ่านระบบควบคุมซอร์สโค้ด และการทำ pull, push, merge
     link: /blogs/sourcecodecontrol
