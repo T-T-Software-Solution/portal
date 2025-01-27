@@ -272,10 +272,14 @@ function sidebarTypeScript(): DefaultTheme.SidebarItem[] {
       text: "TypeScript",
       items: [
         {
-          text: "Fundamentals",
+          text: "Design Patterns and Style Guide",
           collapsed: true,
-          base: "/blogs/typescript/fundamental/",
-          items: [{ text: "Fundamental", link: "fundamental" }],
+          base: "/blogs/typescript/design-patterns-and-style-guide/",
+          items: [
+            { text: "Style Guide", link: "style-guide" },
+            { text: "Design Patterns", link: "design-patterns" },
+            { text: "Production Grade Design", link: "production-grade-design" },
+          ],
         },
       ],
     },
