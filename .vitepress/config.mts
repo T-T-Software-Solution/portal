@@ -272,9 +272,9 @@ function sidebarTypeScript(): DefaultTheme.SidebarItem[] {
       text: "TypeScript",
       items: [
         {
-          text: "Design Patterns and Style Guide",
+          text: "Best Practice",
           collapsed: true,
-          base: "/blogs/typescript/design-patterns-and-style-guide/",
+          base: "/blogs/typescript/best-practice/",
           items: [
             { text: "Style Guide", link: "style-guide" },
             { text: "Design Patterns", link: "design-patterns" },
